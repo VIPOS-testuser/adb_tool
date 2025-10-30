@@ -475,7 +475,7 @@ Qo'llab-quvvatlash:
 
 ## 🔄 Changelog
 
-### Version 2.0 (2024-10-31)
+### Version 2.0 (2025-10-31)
 - ✨ To'liq o'zbek tiliga tarjima qilindi
 - ✨ 21+ yangi funksiya qo'shildi
 - ✨ Avtomatik tahlil qo'shildi
@@ -486,7 +486,7 @@ Qo'llab-quvvatlash:
 - 🐛 Barcha xatolar tuzatildi
 - 🎨 Rangli va interaktiv interfeys
 
-### Version 1.0 (2024-10-01)
+### Version 1.0 (2025-10-30)
 - 🎉 Birinchi versiya chiqarildi
 - ✅ Asosiy funksiyalar
 
